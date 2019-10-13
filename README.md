@@ -1,4 +1,4 @@
-# fecli
+# sdjli
 
 > 一键下载 github 仓库作为模板
 
@@ -6,27 +6,27 @@
 ## 使用
 
 ```
-$ bf add
-$ bf init
-$ bf list
-$ bf delete
+$ sdj add
+$ sdj init
+$ sdj list
+$ sdj delete
 ```
 
 ## 命令的功能
 
-### bf add
+### sdj add
 
 > 全局添加 github 模板
 
-### bf list
+### sdj list
 
 > 显示模板列表
 
-### bf init
+### sdj init
 
 > 初始化某一个模板
 
-### bf delete
+### sdj delete
 
 > 删除已添加模板
 

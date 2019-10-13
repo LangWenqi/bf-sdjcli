@@ -1,12 +1,17 @@
 {
-  "name": "@bf/sdjcli",
+  "name": "sdjcli",
   "version": "0.1.0",
-  "description": "边锋/神盾局前端项目模板",
+  "description": "A cli for init project for bf/sdj",
   "scripts": {
     "test": "node test.js"
   },
+	"main": "index.js",
   "bin": {
-    "bf": "./bin/bf.js"
+    "sdj": "./bin/sdj.js"
+  },
+	"repository": {
+    "type": "git",
+    "url": "git+https://github.com/LangWenqi/bf-sdjcli.git"
   },
   "keywords": [
     "react",
@@ -18,8 +23,12 @@
     "bf-cli",
     "cli"
   ],
-  "author": "郎文奇",
-  "license": "ISC",
+  "author": "langwenqi",
+  "license": "MIT",
+	"bugs": {
+    "url": "https://github.com/LangWenqi/bf-sdjcli/issues"
+  },
+	"homepage": "https://github.com/LangWenqi/bf-sdjcli#readme",
   "dependencies": {
     "chalk": "^2.3.2",
     "cli-table": "^0.3.1",
