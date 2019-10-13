@@ -1,0 +1,31 @@
+{
+  "name": "@bf/sdjcli",
+  "version": "0.1.0",
+  "description": "边锋/神盾局前端项目模板",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "bin": {
+    "bf": "./bin/bf.js"
+  },
+  "keywords": [
+    "react",
+    "react-cli",
+    "vue",
+    "vue-cli",
+    "bfcli",
+		"sdjcli",
+    "bf-cli",
+    "cli"
+  ],
+  "author": "郎文奇",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "cli-table": "^0.3.1",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.15.1",
+    "ora": "^2.0.0"
+  }
+}
