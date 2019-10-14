@@ -1,4 +1,4 @@
-# sdjli
+# sdjcli
 
 > 一键下载 github 仓库作为模板
 
