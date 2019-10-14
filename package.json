@@ -1,6 +1,6 @@
 {
   "name": "sdjcli",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "A cli for init project for bf/sdj",
   "scripts": {
     "test": "node test.js"
