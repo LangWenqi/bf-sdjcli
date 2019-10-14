@@ -1,11 +1,10 @@
 {
   "name": "sdjcli",
-  "version": "0.1.0",
+  "version": "0.2.2",
   "description": "A cli for init project for bf/sdj",
   "scripts": {
     "test": "node test.js"
   },
-	"main": "index.js",
   "bin": {
     "sdj": "./bin/sdj.js"
   },
@@ -14,13 +13,12 @@
     "url": "git+https://github.com/LangWenqi/bf-sdjcli.git"
   },
   "keywords": [
-    "react",
-    "react-cli",
-    "vue",
-    "vue-cli",
+		"bf",
     "bfcli",
-		"sdjcli",
     "bf-cli",
+		"sdj",
+		"sdjcli",
+		"sdj-cli",
     "cli"
   ],
   "author": "langwenqi",

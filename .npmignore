@@ -3,7 +3,6 @@ node_modules/
 *.log
 *.swp
 .tmp
-*.log
 .idea
 .vscode
 .history
