@@ -8,25 +8,25 @@
   "bin": {
     "sdj": "./bin/sdj.js"
   },
-	"repository": {
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/LangWenqi/bf-sdjcli.git"
   },
   "keywords": [
-		"bf",
+    "bf",
     "bfcli",
     "bf-cli",
-		"sdj",
-		"sdjcli",
-		"sdj-cli",
+    "sdj",
+    "sdjcli",
+    "sdj-cli",
     "cli"
   ],
   "author": "langwenqi",
   "license": "MIT",
-	"bugs": {
+  "bugs": {
     "url": "https://github.com/LangWenqi/bf-sdjcli/issues"
   },
-	"homepage": "https://github.com/LangWenqi/bf-sdjcli#readme",
+  "homepage": "https://github.com/LangWenqi/bf-sdjcli#readme",
   "dependencies": {
     "chalk": "^2.3.2",
     "cli-table": "^0.3.1",
