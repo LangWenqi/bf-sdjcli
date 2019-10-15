@@ -18,6 +18,10 @@ $ sdj delete
 
 > 全局添加 github 模板
 
+### sdj open
+
+> 批量全局添加 github 模板
+
 ### sdj list
 
 > 显示模板列表
